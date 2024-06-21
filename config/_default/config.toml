@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://ibraheem-web.github.io/irod/"
 title = "It Runs On Data"
 # post pagination
 paginate = "3"
