@@ -1,0 +1,23 @@
+[readmore]
+other = "続きを読む"
+
+[translations]
+other="翻訳"
+
+[error404]
+other = "誠に申し訳ございませんが、ここには何もないようです。"
+
+[yourname]
+other = "あなたの名前"
+
+[youremail]
+other = "あなたのメールアドレス"
+
+[subject]
+other = "主題"
+
+[yourmessage]
+other = "あなたのメッセージ"
+
+[sendnow]
+other = "今すぐ送信"

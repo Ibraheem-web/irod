@@ -1,46 +1,46 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung lösen"
+  title : "あなたの重要なウェブサイトを解決しましょう <br> d開発の課題"
   image : "images/banner-art.svg"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
     enable : true
-    label : "Contact Us"
+    label : "お問い合わせ"
     link : "contact/"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "知っておくべきこと"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "クリーンコード"
       icon : "fas fa-code"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "オブジェクト指向"
       icon : "fas fa-object-group"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
+    - name : "24時間サービス"
       icon : "fas fa-user-clock"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Value For Money"
+    - name : "コストパフォーマンス"
       icon : "fas fa-heart"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Faster Response"
+    - name : "より速い応答"
       icon : "fas fa-tachometer-alt"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "クラウドサポート"
       icon : "fas fa-cloud"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
@@ -51,7 +51,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "最先端のデジタルマーケティングとIT企業です。"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
@@ -59,43 +59,43 @@ service:
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "それをチェックしてください"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "民間の情報およびサイバーセキュリティ会社です"
       images:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "それをチェックしてください"
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "経験豊富で熟練した人材が揃ったチームです"
       images:
       - "images/service-2.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "それをチェックしてください"
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "他社とは違う企業"
       images:
       - "images/service-3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
         enable : true
-        label : "Check it out"
+        label : "それをチェックしてください"
         link : "#"
         
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "最高の体験を <br> 私たちとのワークフロー"
   image : "images/screenshot.svg"
 
   
@@ -103,11 +103,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "始める準備はできましたか?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
+    label : "お問い合わせ"
     link : "contact/"
 ---
